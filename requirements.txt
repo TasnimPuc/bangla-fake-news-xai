@@ -13,3 +13,4 @@ py7zr
 requests
 streamlit
 google-cloud-storage   # optional checkpoint backup
+ipython
