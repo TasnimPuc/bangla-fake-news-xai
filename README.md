@@ -1,5 +1,7 @@
 # Bangla Fake News Detection + Explainability 📰🔍
 
+![repo health](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TasnimPuc/bd-rooftop-solar-calculator/main/.github/health/badge.json)
+
 A BanglaBERT classifier for Bangla fake news that also **shows its reasons**: SHAP highlights the words that pushed
 an article towards "fake". The project reports more than accuracy:
 
